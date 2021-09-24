@@ -1,0 +1,16 @@
+C:\Users\Andrei\OneDrive\Área de Trabalho\DIO PROJETOS\DIO P1\DIOCertificacoes\bin\Debug\net5.0\DIOCertificacoes.exe
+C:\Users\Andrei\OneDrive\Área de Trabalho\DIO PROJETOS\DIO P1\DIOCertificacoes\bin\Debug\net5.0\DIOCertificacoes.deps.json
+C:\Users\Andrei\OneDrive\Área de Trabalho\DIO PROJETOS\DIO P1\DIOCertificacoes\bin\Debug\net5.0\DIOCertificacoes.runtimeconfig.json
+C:\Users\Andrei\OneDrive\Área de Trabalho\DIO PROJETOS\DIO P1\DIOCertificacoes\bin\Debug\net5.0\DIOCertificacoes.runtimeconfig.dev.json
+C:\Users\Andrei\OneDrive\Área de Trabalho\DIO PROJETOS\DIO P1\DIOCertificacoes\bin\Debug\net5.0\DIOCertificacoes.dll
+C:\Users\Andrei\OneDrive\Área de Trabalho\DIO PROJETOS\DIO P1\DIOCertificacoes\bin\Debug\net5.0\ref\DIOCertificacoes.dll
+C:\Users\Andrei\OneDrive\Área de Trabalho\DIO PROJETOS\DIO P1\DIOCertificacoes\bin\Debug\net5.0\DIOCertificacoes.pdb
+C:\Users\Andrei\OneDrive\Área de Trabalho\DIO PROJETOS\DIO P1\DIOCertificacoes\obj\Debug\net5.0\DIOCertificacoes.csproj.AssemblyReference.cache
+C:\Users\Andrei\OneDrive\Área de Trabalho\DIO PROJETOS\DIO P1\DIOCertificacoes\obj\Debug\net5.0\DIOCertificacoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrei\OneDrive\Área de Trabalho\DIO PROJETOS\DIO P1\DIOCertificacoes\obj\Debug\net5.0\DIOCertificacoes.AssemblyInfoInputs.cache
+C:\Users\Andrei\OneDrive\Área de Trabalho\DIO PROJETOS\DIO P1\DIOCertificacoes\obj\Debug\net5.0\DIOCertificacoes.AssemblyInfo.cs
+C:\Users\Andrei\OneDrive\Área de Trabalho\DIO PROJETOS\DIO P1\DIOCertificacoes\obj\Debug\net5.0\DIOCertificacoes.csproj.CoreCompileInputs.cache
+C:\Users\Andrei\OneDrive\Área de Trabalho\DIO PROJETOS\DIO P1\DIOCertificacoes\obj\Debug\net5.0\DIOCertificacoes.dll
+C:\Users\Andrei\OneDrive\Área de Trabalho\DIO PROJETOS\DIO P1\DIOCertificacoes\obj\Debug\net5.0\ref\DIOCertificacoes.dll
+C:\Users\Andrei\OneDrive\Área de Trabalho\DIO PROJETOS\DIO P1\DIOCertificacoes\obj\Debug\net5.0\DIOCertificacoes.pdb
+C:\Users\Andrei\OneDrive\Área de Trabalho\DIO PROJETOS\DIO P1\DIOCertificacoes\obj\Debug\net5.0\DIOCertificacoes.genruntimeconfig.cache
